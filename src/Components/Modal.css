@@ -1,0 +1,84 @@
+.closeButton button {
+  float: right;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  background-color: #FFF;
+}
+
+.buttonCancel {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 280px;
+  height: 50px;
+  border: none;
+  color: white;
+  background-color: #0061ff;
+  font-size: 20px;
+}
+
+.buttonSave {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 280px;
+  height: 50px;
+  border: none;
+  color: white;
+  background-color: #0061ff;
+  font-size: 20px;
+}
+
+.buttonSave:hover {
+  background-color: #00008B;
+}
+
+.buttonCancel:hover {
+  background-color: #00008B;
+}
+
+.valueInput {
+  width: 400px;
+  height: 25px;
+  border: 1px solid black;
+  font-size: 18px;
+}
+
+.addTeam {
+  position: relative;
+  color: #0061ff;
+  border: none;
+  background-color: #FFF;
+  font-size: 16px;
+}
+
+.valueSpace {
+  margin-bottom: 10px;
+}
+
+.scroll {
+  overflow-y: scroll;
+  height: 150px;
+  margin-bottom: 20px;
+}
+
+.backdrop {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.3);
+  padding: 50px;
+}
+
+.modal {
+  position: relative;
+  background-color: #FFF;
+  border-radius: 0;
+  max-width: 500px;
+  min-height: 300px;
+  margin: 0 auto;
+  padding: 30px;
+}

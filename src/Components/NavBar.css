@@ -1,0 +1,12 @@
+.navBar {
+  background-color: #5f6063;
+  height: 75px;
+  width: 100%;
+}
+
+.navText {
+  color: #FFF;
+  font-size: 30px;
+  margin-left: 50px;
+  line-height: 75px;
+}

@@ -1,0 +1,53 @@
+.FieldContainer {
+  margin-left: 50px;
+  width: 800px;
+  border-top: 1px solid #5f6063;
+  height: 200px;
+}
+
+.FieldTitle {
+  display: block;
+  font-size: 32px;
+  font-weight: 500;
+  color: #5f6063;
+}
+
+.FieldDetails {
+  display: block;
+  font-size: 24px;
+  color: #5f6063;
+  margin-top: 20px;
+}
+
+.FieldText {
+  display: inline-block;
+  padding-top: 50px;
+}
+
+.ButtonContainer {
+  position: relative;
+  margin-right: 300px;
+  float:right;
+  height: 100%;
+}
+
+.FieldButton {
+  position: absolute;
+  background-color: #0061ff;
+  color: #FFF;
+  font-size: 20px;
+  border: none;
+  top: 0;
+  bottom: 0;
+  height: 50px;
+  width: 150px;
+  margin: auto;
+}
+
+
+.FieldTeam {
+  display: block;
+  font-size: 18px;
+  color: #5f6063;
+  margin-bottom: 15px;
+}
